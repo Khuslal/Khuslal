@@ -63,7 +63,7 @@ I'm an aspiring **Java Developer** currently pursuing my **Bachelor in Computer 
 
 | Certificate | Provider |
 |---|---|
-| ☕ Java Full Stack Live Course | — | Udemy |
+| ☕ Java Full Stack Live Course | Udemy |
 | 🏅 IBM Java Developer Professional Certificate | IBM |
 | 🤖 Introduction to Generative AI Certificate | Simplilearn × Google Cloud |
 
