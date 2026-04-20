@@ -63,15 +63,11 @@ I'm an aspiring **Java Developer** currently pursuing my **Bachelor in Computer 
 
 | Certificate | Provider |
 |---|---|
-| ☕ Java Full Stack Live Course | — |
+| ☕ Java Full Stack Live Course | — | Udemy |
 | 🏅 IBM Java Developer Professional Certificate | IBM |
 | 🤖 Introduction to Generative AI Certificate | Simplilearn × Google Cloud |
 
 ---
 
- 📧 Email | [guptakhuslal@gmail.com](mailto:guptakhuslal@gmail.com) |
-| 🌐 Portfolio | [www.guptakhuslal.com.np](https://www.guptakhuslal.com.np) |
-|
-
----
+ 
 
