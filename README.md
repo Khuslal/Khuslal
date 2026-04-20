@@ -4,7 +4,6 @@
 <p align="center">
   <a href="mailto:guptakhuslal@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
   <a href="https://www.guptakhuslal.com.np"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"/></a>
-  <a href="https://github.com/guptakhuslal"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 </p>
 
 ---
@@ -70,31 +69,9 @@ I'm an aspiring **Java Developer** currently pursuing my **Bachelor in Computer 
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=guptakhuslal&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guptakhuslal&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
-
----
-
-## 📬 Contact Me
-
-| Platform | Link |
-|---|---|
-| 📧 Email | [guptakhuslal@gmail.com](mailto:guptakhuslal@gmail.com) |
+ 📧 Email | [guptakhuslal@gmail.com](mailto:guptakhuslal@gmail.com) |
 | 🌐 Portfolio | [www.guptakhuslal.com.np](https://www.guptakhuslal.com.np) |
-| 📞 Phone | +977 9702546615 |
+|
 
 ---
 
-<p align="center">
-  <i>"Clean code always looks like it was written by someone who cares."</i><br/>
-  <b>— Robert C. Martin</b>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=guptakhuslal&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
