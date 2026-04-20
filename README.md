@@ -16,7 +16,7 @@ I'm an aspiring **Java Developer** currently pursuing my **Bachelor in Computer 
 - 💼 Focused on **Java Full Stack Development**
 - 🌱 Continuously learning and building with **Java, PHP, HTML/CSS**
 - 🤝 I thrive in collaborative environments and love open-source
-- 📍 Based in **Bardaghat-13, Nawalparasi (West), Nepal**
+- 📍 Based in **Bardaghat, Nawalparasi (West), Nepal**
 
 ---
 
