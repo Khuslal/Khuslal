@@ -14,7 +14,7 @@ I'm an aspiring **Java Developer** currently pursuing my **Bachelor in Computer 
 
 - 🎓 Currently studying **BCA** at Tribhuvan University (2022 – Present)
 - 💼 Focused on **Java Full Stack Development**
-- 🌱 Continuously learning and building with **Java, PHP, HTML/CSS**
+- 🌱 Continuously learning focusing on **Java**, while leveraging my past experience with **PHP and HTML/CSS** to build well-rounded applications.
 - 🤝 I thrive in collaborative environments and love open-source
 - 📍 Based in **Bardaghat, Nawalparasi (West), Nepal**
 
