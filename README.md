@@ -38,30 +38,29 @@ I'm an aspiring **Java Developer** currently pursuing my **Bachelor in Computer 
 
 ---
 
-🚀 Projects
+## 🚀 Projects
 ### 🛍️ Mobile Shop Management System (E-Commerce Platform)
 
-**Tech Stack:** Java, Spring Boot, Spring Data JPA, Hibernate, Thymeleaf, MySQL, Bootstrap, Maven, eSewa API
+Tech Stack: Java, Spring Boot, Spring Data JPA, Hibernate, Thymeleaf, MySQL, Bootstrap, Maven, eSewa API
 
-Built a full-stack e-commerce platform for mobile phone browsing and purchase, covering the complete flow from catalog to checkout
-Integrated the eSewa payment gateway for secure online transactions during checkout
-Designed a normalized MySQL schema with Spring Data JPA/Hibernate for products, orders, and users
-Implemented category-based filtering and search to improve product discoverability
-Built an admin panel for CRUD-based product and order management
-Followed MVC architecture with clean separation of concerns for maintainability
+* Built a full-stack e-commerce platform for mobile phone browsing and purchase, covering the complete flow from catalog to checkout
+* Integrated the eSewa payment gateway for secure online transactions during checkout
+* Designed a normalized MySQL schema with Spring Data JPA/Hibernate for products, orders, and users
+* Implemented category-based filtering and search to improve product discoverability
+* Built an admin panel for CRUD-based product and order management
+* Followed MVC architecture with clean separation of concerns for maintainability
 
 Key Features: Auth & Session Management · Product Catalog & Search · Cart & Checkout · eSewa Payment Integration · Order History · Admin Product Management
 
 ### 🩸 Blood Bank Management System (LifeDrop)
 
-**Tech Stack:** Java, Spring Boot, Spring Security, Spring Data JPA, Hibernate, Thymeleaf, MySQL, Lombok, Bootstrap, Maven
+Tech Stack: Java, Spring Boot, Spring Security, Spring Data JPA, Hibernate, Thymeleaf, MySQL, Lombok, Bootstrap, Maven
 
-Designed a role-based platform (Admin, Center Manager, Donor) using Spring Security to streamline blood donation and request workflows
-Built an appointment booking system with accept/reject workflows for center managers to manage donor scheduling
-Implemented blood inventory tracking and request processing, letting center managers manage stock and admins oversee centers, users, and appointments system-wide
-Modeled center-manager assignment so admins promote users and link them to a specific donation center, rather than allowing self-registration into that role
-Reduced boilerplate with Lombok while keeping persistence layer clean via Spring Data JPA/Hibernate
-
+* Designed a role-based platform (Admin, Center Manager, Donor) using Spring Security to streamline blood donation and request workflows
+* Built an appointment booking system with accept/reject workflows for center managers to manage donor scheduling
+* Implemented blood inventory tracking and request processing, letting center managers manage stock and admins oversee centers, users, and appointments system-wide
+* Modeled center-manager assignment so admins promote users and link them to a specific donation center, rather than allowing self-registration into that role
+* Reduced boilerplate with Lombok while keeping the persistence layer clean via Spring Data JPA/Hibernate
 ---
 
 ### ✍️ PostUp — Blogging Platform
