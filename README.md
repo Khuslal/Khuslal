@@ -38,67 +38,29 @@ I'm an aspiring **Java Developer** currently pursuing my **Bachelor in Computer 
 
 ---
 
-## 🚀 Projects
+🚀 Projects
+### 🛍️ Mobile Shop Management System (E-Commerce Platform)
 
-### 🛍️ Mobile Shop Management System
+**Tech Stack:** Java, Spring Boot, Spring Data JPA, Hibernate, Thymeleaf, MySQL, Bootstrap, Maven, eSewa API
 
-**Tech Stack:** Java, Spring Boot, Spring Data JPA, Hibernate, Thymeleaf, MySQL, Bootstrap, Maven, eSewa Test API
+Built a full-stack e-commerce platform for mobile phone browsing and purchase, covering the complete flow from catalog to checkout
+Integrated the eSewa payment gateway for secure online transactions during checkout
+Designed a normalized MySQL schema with Spring Data JPA/Hibernate for products, orders, and users
+Implemented category-based filtering and search to improve product discoverability
+Built an admin panel for CRUD-based product and order management
+Followed MVC architecture with clean separation of concerns for maintainability
 
-* Developed a full-stack e-commerce web application for browsing and purchasing mobile phones.
-* Implemented secure user registration, login, and session management.
-* Built complete product catalog management with CRUD operations.
-* Integrated the **eSewa Test API** for secure online payment processing during checkout.
-* Designed a responsive user interface using Thymeleaf and Bootstrap.
-* Implemented product search, category filtering, and order management.
-* Used Spring Data JPA and Hibernate for efficient database operations and ORM.
-* Followed MVC architecture and clean coding practices to improve maintainability.
+Key Features: Auth & Session Management · Product Catalog & Search · Cart & Checkout · eSewa Payment Integration · Order History · Admin Product Management
 
-**Key Features**
-
-* User Registration & Login
-* Product Catalog
-* Shopping Cart
-* Checkout System
-* eSewa Test Payment Integration
-* Order History
-* Admin Product Management
-* Responsive Dashboard
-
----
-
-### 🩸 Blood Bank Management System
+### 🩸 Blood Bank Management System (LifeDrop)
 
 **Tech Stack:** Java, Spring Boot, Spring Security, Spring Data JPA, Hibernate, Thymeleaf, MySQL, Lombok, Bootstrap, Maven
 
-* Developed a role-based web application to streamline blood donation and blood request management.
-* Implemented **Spring Security** authentication and authorization with three user roles:
-
-  * **Admin**
-  * **Center Manager**
-  * **Donor**
-* Built a secure appointment booking system for blood donations.
-* Developed donor registration, blood inventory management, and blood request processing modules.
-* Enabled administrators to manage users, donation centers, appointments, and blood stock.
-* Allowed center managers to approve donor appointments, manage blood inventory, and process blood requests.
-* Designed responsive dashboards for each role using Thymeleaf and Bootstrap.
-* Utilized Lombok to reduce boilerplate code and improve project maintainability.
-* Applied Spring Data JPA and Hibernate for robust persistence and database management.
-
-**Key Features**
-
-* Role-Based Authentication & Authorization
-* Admin Dashboard
-* Center Manager Dashboard
-* Donor Dashboard
-* Blood Donation Appointment Booking
-* Blood Stock Management
-* Blood Request Management
-* User Management
-* Approval & Rejection Workflow
-* Donation History
-* Secure Login & Registration
-* Responsive Web Interface
-
+Designed a role-based platform (Admin, Center Manager, Donor) using Spring Security to streamline blood donation and request workflows
+Built an appointment booking system with accept/reject workflows for center managers to manage donor scheduling
+Implemented blood inventory tracking and request processing, letting center managers manage stock and admins oversee centers, users, and appointments system-wide
+Modeled center-manager assignment so admins promote users and link them to a specific donation center, rather than allowing self-registration into that role
+Reduced boilerplate with Lombok while keeping persistence layer clean via Spring Data JPA/Hibernate
 
 ---
 
