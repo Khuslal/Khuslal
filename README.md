@@ -41,7 +41,7 @@ I'm an aspiring **Java Developer** currently pursuing my **Bachelor in Computer 
 ## 🚀 Projects
 ### 🛍️ Mobile Shop Management System (E-Commerce Platform)
 
-Tech Stack: Java, Spring Boot, Spring Data JPA, Hibernate, Thymeleaf, MySQL, Bootstrap, Maven, eSewa API
+Tech Stack: `Java`, `Spring Boot`, `Spring Data JPA`, `Hibernate`, `Thymeleaf`, `MySQL`, `Bootstrap`, `Maven`, `eSewa API`
 
 * Built a full-stack e-commerce platform for mobile phone browsing and purchase, covering the complete flow from catalog to checkout
 * Integrated the eSewa payment gateway for secure online transactions during checkout
@@ -54,7 +54,7 @@ Key Features: Auth & Session Management · Product Catalog & Search · Cart & Ch
 
 ### 🩸 Blood Bank Management System (LifeDrop)
 
-Tech Stack: Java, Spring Boot, Spring Security, Spring Data JPA, Hibernate, Thymeleaf, MySQL, Lombok, Bootstrap, Maven
+Tech Stack: `Java`, `Spring Boot`, `Spring Security`, `Spring Data JPA`, `Hibernate`, `Thymeleaf`, `MySQL`, `Lombok`, `Bootstrap`, `Maven`
 
 * Designed a role-based platform (Admin, Center Manager, Donor) using Spring Security to streamline blood donation and request workflows
 * Built an appointment booking system with accept/reject workflows for center managers to manage donor scheduling
